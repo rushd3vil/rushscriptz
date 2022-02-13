@@ -2,10 +2,6 @@
 
 <!-- SOCIALS -->
 ### Connect with me:
-
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/545703210539548684"/>
-
-<a href='https://ko-fi.com/mewdev' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     
 <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UCLBfHWTHVi4ZJQdqE3Hd_3A)
 <br>
