@@ -1,5 +1,17 @@
 ### Pure souls are not always destined to live in paradise.
 
+<!-- SOCIALS -->
+### Connect with me:
+
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/891344408644050954"/>
+
+<a href='https://ko-fi.com/mewdev' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    
+<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UCLBfHWTHVi4ZJQdqE3Hd_3A)
+<br>
+<br>
+<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/545703210539548684)
+
 <div>
   <a href="https://github.com/roroch4n
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DustScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
