@@ -24,4 +24,8 @@
  
 </div>
 
+<a href="https://github.com/rushscriptz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushscriptz&theme=midnight-purple&show_icons=true" />
+</a>
+
   ##
