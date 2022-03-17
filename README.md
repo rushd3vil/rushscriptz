@@ -12,8 +12,8 @@
 <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/545703210539548684)
 
 <div>
-  <a href="https://github.com/rushscriptz
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DustScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+  <a href="https://github.com/rushscriptz"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DustScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushscriptz&layout=compact&langs_count=7&theme=dracula%22/%3E"
 </div>
 <div style="display: inline_block"><br>
