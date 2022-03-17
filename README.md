@@ -19,8 +19,6 @@
 <div style="display: inline_block"><br>
 
   <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/907348370002165792/907348398724771930/896960935623819354.png"/>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
