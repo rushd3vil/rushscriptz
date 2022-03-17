@@ -1,4 +1,4 @@
-### Pure souls are not always destined to live in paradise.
+### alone for everything, it was never different.
 
 <!-- SOCIALS -->
 ### Connect with me:
