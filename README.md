@@ -1,4 +1,4 @@
-### alone for everything, it was never different.
+## 彼らがしなかったすべてをする
 
 <!-- SOCIALS -->
 ### Connect with me:
