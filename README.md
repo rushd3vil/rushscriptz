@@ -3,7 +3,7 @@
 <!-- SOCIALS -->
 ### Connect with me:
     
-<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UCLBfHWTHVi4ZJQdqE3Hd_3A)
+<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://www.twitter.com/rushd3vil)
 <br>
 <br>
 <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/rushkklk)
