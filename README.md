@@ -1,16 +1,5 @@
 ## 彼らがしなかったすべてをする
 
-<!-- SOCIALS -->
-### Connect with me:
-    
-<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter](https://www.twitter.com/rushd3vil)
-<br>
-<br>
-<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/rushkklk)
-<br>
-<br>
-<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/545703210539548684)
-
 <div>
   <a href="https://github.com/worstbaby"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushscriptz&layout=compact&langs_count=7&theme=dracula%22/%3E">
